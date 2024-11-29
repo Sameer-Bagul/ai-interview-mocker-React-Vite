@@ -1,0 +1,6 @@
+[
+    { "question": "What is React?", "answer": "React is a JavaScript library for building user interfaces." },
+    { "question": "What is JSX?", "answer": "JSX is a syntax extension for JavaScript that looks similar to XML or HTML." },
+    { "question": "What are React hooks?", "answer": "Hooks are functions that let you use React features like state and lifecycle methods." }
+  ]
+  
